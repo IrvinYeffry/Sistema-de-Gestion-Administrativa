@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          <title>irvinyeffry</title>
+          <title>irvinyeffrydos</title>
         </a>
       </header>
     </div>
